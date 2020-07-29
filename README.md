@@ -1,6 +1,6 @@
 # Natural Selection Simulation
 
-Simulation of natural selection and genetic evolution  using Processing 3
+Simulation of natural selection and genetic evolution using Processing 3
 
 ![](result.png)
 
