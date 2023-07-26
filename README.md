@@ -1,8 +1,6 @@
 # Natural Selection Simulation
 
-Simulation of natural selection and genetic evolution using Processing 3
-
-[Demo video](https://youtu.be/hHlSowsy1ZY)
+Simulation of natural selection and genetic evolution using Processing 3.
 
 ![](result.png)
 
@@ -17,3 +15,8 @@ Each cell has 2 features:
 
 - Processing 3
 - Python mode
+
+## V2
+
+- The Green Cells (Evolving Sensing distance)
+- The Red Cells (Evolving Moving speed)
